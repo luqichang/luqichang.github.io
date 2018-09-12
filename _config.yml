@@ -1,8 +1,8 @@
 # Basic
-title: 品味
-subtitle:一个不一样的美食餐厅
+title: '品味'
+subtitle:'一个不一样的美食餐厅'
 welcome_message: <a href="#" target="_blank">各位客官，欢迎光临品味店！</a>
-description: 总有一种味道属于你
+description: '总有一种味道属于你'
 creator: Jason
 
 url: "http://www.tastecloud.club"
